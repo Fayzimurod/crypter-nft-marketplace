@@ -47,7 +47,7 @@ The layout adapts to different screen sizes:
 - Password field
 - Form validation states
 
----
+<!-- ---
 
 ## Additional Tags for GitHub
 
@@ -63,10 +63,14 @@ Add these topics to your repository:
 - `crypto-ui`
 - `dashboard`
 
-This setup provides a professional and comprehensive GitHub presence for your project!
+This setup provides a professional and comprehensive GitHub presence for your project! --> 
 
 ## 👏 Acknowledgements
 
 - Bootstrap team for the amazing framework
 - Icons provided by Bootstrap Icons
 - NFT card designs inspired by modern marketplace trends
+
+## 
+
+> **⚠️ WARNING:** This is a UI demo only. **DO NOT** enter real credit card details, passwords, or personal information. All form fields are for visual demonstration purposes.
