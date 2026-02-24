@@ -47,7 +47,6 @@ The layout adapts to different screen sizes:
 - Password field
 - Form validation states
 
-
 ---
 
 ## Additional Tags for GitHub
@@ -66,7 +65,8 @@ Add these topics to your repository:
 
 This setup provides a professional and comprehensive GitHub presence for your project!
 
+## 👏 Acknowledgements
 
-
-
-
+- Bootstrap team for the amazing framework
+- Icons provided by Bootstrap Icons
+- NFT card designs inspired by modern marketplace trends
