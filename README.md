@@ -1,6 +1,6 @@
 # Crypter NFT Marketplace
 
-A responsive NFT marketplace landing page built with **Bootstrap 5**, featuring a modern dark-themed UI with interactive components.
+A responsive NFT marketplace landing page built with **Bootstrap 5**, featuring a modern dark-themed UI with interactive components. 
 
 ## 🚀 Features
 
